@@ -26,7 +26,7 @@ import org.apache.commons.cli.ParseException;
 public class HECRunner {
 
     private static String protocol = "http:"; // http: or https:
-    private static String server = "apsrd3220.uhc.com";
+    private static String server = "server.foo.com";
     private static String port = "9992";
     private static String endpoint = "services/collector/raw/1.0";
     private static String destinationURL;
