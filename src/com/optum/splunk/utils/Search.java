@@ -29,7 +29,7 @@ public class Search {
         private String query;
         private String earliestTime = "-1d@d";
         private String latestTime = "@d";
-        private String host = "apsrd3220";
+        private String host = "myserver";
         private String outFileName = "search.csv";
         private String outputMode = "csv";
         private String user;
